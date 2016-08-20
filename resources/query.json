@@ -1,0 +1,1113 @@
+{
+	"odata.metadata": "https://deevi.sharepoint.com/_api/$metadata#Microsoft.Office.Server.Search.REST.SearchResult",
+	"ElapsedTime": 146,
+	"PrimaryQueryResult": {
+		"CustomResults": [],
+		"QueryId": "534b3337-c6b7-4d76-acab-0e8aa593fe09",
+		"QueryRuleId": "00000000-0000-0000-0000-000000000000",
+		"RefinementResults": null,
+		"RelevantResults": {
+			"GroupTemplateId": null,
+			"ItemTemplateId": null,
+			"Properties": [{
+				"Key": "GenerationId",
+				"Value": "9223372036854775806",
+				"ValueType": "Edm.Int64"
+			},
+			{
+				"Key": "indexSystem",
+				"Value": "",
+				"ValueType": "Edm.String"
+			},
+			{
+				"Key": "ExecutionTimeMs",
+				"Value": "78",
+				"ValueType": "Edm.Int32"
+			},
+			{
+				"Key": "QueryModification",
+				"Value": "nalco -ContentClass=urn:content-class:SPSPeople",
+				"ValueType": "Edm.String"
+			},
+			{
+				"Key": "RenderTemplateId",
+				"Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Group_Default.js",
+				"ValueType": "Edm.String"
+			},
+			{
+				"Key": "piPageImpressionBlockType",
+				"Value": "2",
+				"ValueType": "Edm.Byte"
+			},
+			{
+				"Key": "StartRecord",
+				"Value": "0",
+				"ValueType": "Edm.Int32"
+			},
+			{
+				"Key": "IsLastBlockInSubstrate",
+				"Value": "true",
+				"ValueType": "Edm.Boolean"
+			},
+			{
+				"Key": "IsFirstBlockInSubstrate",
+				"Value": "false",
+				"ValueType": "Edm.Boolean"
+			},
+			{
+				"Key": "IsFirstPinnedResultBlock",
+				"Value": "false",
+				"ValueType": "Edm.Boolean"
+			},
+			{
+				"Key": "IsLastPinnedResultBlock",
+				"Value": "false",
+				"ValueType": "Edm.Boolean"
+			},
+			{
+				"Key": "IsFirstRankedResultBlock",
+				"Value": "true",
+				"ValueType": "Edm.Boolean"
+			},
+			{
+				"Key": "IsLastRankedResultBlock",
+				"Value": "true",
+				"ValueType": "Edm.Boolean"
+			}],
+			"ResultTitle": null,
+			"ResultTitleUrl": null,
+			"RowCount": 4,
+			"Table": {
+				"Rows": [{
+					"Cells": [{
+						"Key": "Rank",
+						"Value": "26.9997367858887",
+						"ValueType": "Edm.Double"
+					},
+					{
+						"Key": "DocId",
+						"Value": "173565197",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "WorkId",
+						"Value": "173565197",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Title",
+						"Value": "Nalco Champion Team Site",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Author",
+						"Value": "System Account",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Size",
+						"Value": "114042",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Path",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Description",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "Write",
+						"Value": "2015-01-27T16:15:59.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "LastModifiedTime",
+						"Value": "2015-01-27T16:15:59.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "CollapsingStatus",
+						"Value": "1",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "HitHighlightedSummary",
+						"Value": "Title \r\n\u00a0\u00a0\r\nBackground Image Location \r\n\u00a0\u00a0\r\nDescription\r\nLink Location \r\n\u00a0\u00a0\r\nLaunch Behavior \r\n\u00a0\u00a0\r\nOrder \r\n\u00a0\u00a0\r\nBackground Image Cluster Horizontal Start \r\n\u00a0\u00a0\r\nBackground Image <ddd/> ",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "HitHighlightedProperties",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "contentclass",
+						"Value": "STS_Site",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PictureThumbnailURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedEmbedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedPreviewURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "FileExtension",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ContentTypeId",
+						"Value": "0x0101080005D4E96C1732594EA2177C63A05EE585",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ParentLink",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ViewsLifeTime",
+						"Value": "7",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "ViewsRecent",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "SectionNames",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SectionIndexes",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SiteLogo",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SiteDescription",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "deeplinks",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "importance",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "SiteName",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsDocument",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "FileType",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsContainer",
+						"Value": "true",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "WebTemplate",
+						"Value": "STS",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SecondaryFileExtension",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "docaclmeta",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SPWebUrl",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "UniqueId",
+						"Value": "{D31290F8-3BCC-449F-9708-92BC04CCE8B3}",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ProgId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "LinkingUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "OriginalPath",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ResultTypeIdList",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ResultTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "RenderTemplateId",
+						"Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PartitionId",
+						"Value": "8524039f-8e59-428c-a473-b96da47d371f",
+						"ValueType": "Edm.Guid"
+					},
+					{
+						"Key": "UrlZone",
+						"Value": "0",
+						"ValueType": "Edm.Int32"
+					},
+					{
+						"Key": "Culture",
+						"Value": "en-US",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "piSearchResultId",
+						"Value": "0_1",
+						"ValueType": "Edm.String"
+					}]
+				},
+				{
+					"Cells": [{
+						"Key": "Rank",
+						"Value": "26.8812026977539",
+						"ValueType": "Edm.Double"
+					},
+					{
+						"Key": "DocId",
+						"Value": "173565650",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "WorkId",
+						"Value": "173565650",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Title",
+						"Value": "Nalco Champion Team Site - MicroFeed",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Author",
+						"Value": "System Account",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Size",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Path",
+						"Value": "https://deevi.sharepoint.com/Lists/PublishedFeed/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Description",
+						"Value": "MySite MicroFeed Persistent Storage List",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Write",
+						"Value": "2015-01-20T18:44:47.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "LastModifiedTime",
+						"Value": "2015-01-20T18:44:47.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "CollapsingStatus",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "HitHighlightedSummary",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "HitHighlightedProperties",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "contentclass",
+						"Value": "STS_List_544",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PictureThumbnailURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedEmbedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedPreviewURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "FileExtension",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ContentTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ParentLink",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ViewsLifeTime",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ViewsRecent",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SectionNames",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SectionIndexes",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SiteLogo",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SiteDescription",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "deeplinks",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "importance",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "SiteName",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsDocument",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "FileType",
+						"Value": "html",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsContainer",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "WebTemplate",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SecondaryFileExtension",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "docaclmeta",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SPWebUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "UniqueId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ProgId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "LinkingUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "OriginalPath",
+						"Value": "https://deevi.sharepoint.com/Lists/PublishedFeed/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ResultTypeIdList",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ResultTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "RenderTemplateId",
+						"Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PartitionId",
+						"Value": "8524039f-8e59-428c-a473-b96da47d371f",
+						"ValueType": "Edm.Guid"
+					},
+					{
+						"Key": "UrlZone",
+						"Value": "0",
+						"ValueType": "Edm.Int32"
+					},
+					{
+						"Key": "Culture",
+						"Value": "en-US",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "piSearchResultId",
+						"Value": "1_1",
+						"ValueType": "Edm.String"
+					}]
+				},
+				{
+					"Cells": [{
+						"Key": "Rank",
+						"Value": "26.8247184753418",
+						"ValueType": "Edm.Double"
+					},
+					{
+						"Key": "DocId",
+						"Value": "173565601",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "WorkId",
+						"Value": "173565601",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Title",
+						"Value": "Nalco Champion Team Site - Site Assets",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Author",
+						"Value": "System Account",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Size",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Path",
+						"Value": "https://deevi.sharepoint.com/SiteAssets/Forms/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Description",
+						"Value": "Use this library to store files which are included on pages within this site, such as images on Wiki pages.",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Write",
+						"Value": "2015-12-12T13:24:21.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "LastModifiedTime",
+						"Value": "2015-12-12T13:24:21.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "CollapsingStatus",
+						"Value": "1",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "HitHighlightedSummary",
+						"Value": "Team Site Notebook\r\n\u00a0\u00a0\r\n12/11/2014 12:16 PM System Account",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "HitHighlightedProperties",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "contentclass",
+						"Value": "STS_List_DocumentLibrary",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PictureThumbnailURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedEmbedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedPreviewURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "FileExtension",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ContentTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ParentLink",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ViewsLifeTime",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ViewsRecent",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SectionNames",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SectionIndexes",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SiteLogo",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SiteDescription",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "deeplinks",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "importance",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "SiteName",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsDocument",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "FileType",
+						"Value": "html",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsContainer",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "WebTemplate",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SecondaryFileExtension",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "docaclmeta",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SPWebUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "UniqueId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ProgId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "LinkingUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "OriginalPath",
+						"Value": "https://deevi.sharepoint.com/SiteAssets/Forms/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ResultTypeIdList",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ResultTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "RenderTemplateId",
+						"Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PartitionId",
+						"Value": "8524039f-8e59-428c-a473-b96da47d371f",
+						"ValueType": "Edm.Guid"
+					},
+					{
+						"Key": "UrlZone",
+						"Value": "0",
+						"ValueType": "Edm.Int32"
+					},
+					{
+						"Key": "Culture",
+						"Value": "en-US",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "piSearchResultId",
+						"Value": "2_1",
+						"ValueType": "Edm.String"
+					}]
+				},
+				{
+					"Cells": [{
+						"Key": "Rank",
+						"Value": "26.5520057678223",
+						"ValueType": "Edm.Double"
+					},
+					{
+						"Key": "DocId",
+						"Value": "173565686",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "WorkId",
+						"Value": "173565686",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Title",
+						"Value": "Nalco Champion Team Site - Apps in Testing",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Author",
+						"Value": "System Account",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Size",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "Path",
+						"Value": "https://deevi.sharepoint.com/Lists/DraftApps/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Description",
+						"Value": "List of all apps deployed in the Dev Site",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "Write",
+						"Value": "2015-01-27T16:15:56.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "LastModifiedTime",
+						"Value": "2015-01-27T16:15:56.0000000Z",
+						"ValueType": "Edm.DateTime"
+					},
+					{
+						"Key": "CollapsingStatus",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "HitHighlightedSummary",
+						"Value": "There are no items to show in this view of the &quot;Apps in Testing&quot; list",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "HitHighlightedProperties",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "contentclass",
+						"Value": "STS_List_DeveloperSiteDraftApps",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PictureThumbnailURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedEmbedURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ServerRedirectedPreviewURL",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "FileExtension",
+						"Value": "aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ContentTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ParentLink",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ViewsLifeTime",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ViewsRecent",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SectionNames",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SectionIndexes",
+						"Value": "",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "SiteLogo",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SiteDescription",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "deeplinks",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "importance",
+						"Value": "0",
+						"ValueType": "Edm.Int64"
+					},
+					{
+						"Key": "SiteName",
+						"Value": "https://deevi.sharepoint.com",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsDocument",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "FileType",
+						"Value": "html",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "IsContainer",
+						"Value": "false",
+						"ValueType": "Edm.Boolean"
+					},
+					{
+						"Key": "WebTemplate",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SecondaryFileExtension",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "docaclmeta",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "SPWebUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "UniqueId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ProgId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "LinkingUrl",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "OriginalPath",
+						"Value": "https://deevi.sharepoint.com/Lists/DraftApps/AllItems.aspx",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "ResultTypeIdList",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "ResultTypeId",
+						"Value": null,
+						"ValueType": "Null"
+					},
+					{
+						"Key": "RenderTemplateId",
+						"Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "PartitionId",
+						"Value": "8524039f-8e59-428c-a473-b96da47d371f",
+						"ValueType": "Edm.Guid"
+					},
+					{
+						"Key": "UrlZone",
+						"Value": "0",
+						"ValueType": "Edm.Int32"
+					},
+					{
+						"Key": "Culture",
+						"Value": "en-US",
+						"ValueType": "Edm.String"
+					},
+					{
+						"Key": "piSearchResultId",
+						"Value": "3_1",
+						"ValueType": "Edm.String"
+					}]
+				}]
+			},
+			"TotalRows": 4,
+			"TotalRowsIncludingDuplicates": 10
+		},
+		"SpecialTermResults": null
+	},
+	"Properties": [{
+		"Key": "RowLimit",
+		"Value": "10",
+		"ValueType": "Edm.Int32"
+	},
+	{
+		"Key": "SourceId",
+		"Value": "8413cd39-2156-4e00-b54d-11efd9abdb89",
+		"ValueType": "Edm.Guid"
+	},
+	{
+		"Key": "CorrelationId",
+		"Value": "40739b9d-e0a5-2000-13ad-88e271002e1f",
+		"ValueType": "Edm.Guid"
+	},
+	{
+		"Key": "WasGroupRestricted",
+		"Value": "false",
+		"ValueType": "Edm.Boolean"
+	},
+	{
+		"Key": "IsPartial",
+		"Value": "false",
+		"ValueType": "Edm.Boolean"
+	},
+	{
+		"Key": "HasParseException",
+		"Value": "false",
+		"ValueType": "Edm.Boolean"
+	},
+	{
+		"Key": "EnableInterleaving",
+		"Value": "true",
+		"ValueType": "Edm.Boolean"
+	},
+	{
+		"Key": "piPageImpression",
+		"Value": "237445955_2791_1033",
+		"ValueType": "Edm.String"
+	},
+	{
+		"Key": "IsMissingUnifiedGroups",
+		"Value": "false",
+		"ValueType": "Edm.Boolean"
+	},
+	{
+		"Key": "Constellation",
+		"Value": "9E72C8",
+		"ValueType": "Edm.String"
+	},
+	{
+		"Key": "SerializedQuery",
+		"Value": "<Query Culture=\"en-US\" EnableStemming=\"True\" EnablePhonetic=\"False\" EnableNicknames=\"False\" IgnoreAllNoiseQuery=\"True\" SummaryLength=\"180\" MaxSnippetLength=\"180\" DesiredSnippetLength=\"90\" KeywordInclusion=\"0\" QueryText=\"nalco\" QueryTemplate=\"\" TrimDuplicates=\"True\" Site=\"afc42d1a-01e9-4418-8470-d7178d331b7a\" Web=\"18d68886-d1f1-45f2-896d-54dbcd4707eb\" KeywordType=\"True\" HiddenConstraints=\"\" />",
+		"ValueType": "Edm.String"
+	}],
+	"SecondaryQueryResults": [],
+	"SpellingSuggestion": "",
+	"TriggeredRules": []
+}

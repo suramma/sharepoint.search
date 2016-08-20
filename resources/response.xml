@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<query xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+	xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+	xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml"
+	type="Microsoft.Office.Server.Search.REST.SearchResult">
+	<ElapsedTime type="Edm.Int32">1388</ElapsedTime>
+	<PrimaryQueryResult type="Microsoft.Office.Server.Search.REST.QueryResult">
+		<CustomResults
+			type="Collection(Microsoft.Office.Server.Search.REST.CustomResult)" />
+		<QueryId>8987h-67abd8f88ba9</QueryId>
+		<QueryRuleId type="Edm.Guid">00000000-0000-0000-0000-000000000000</QueryRuleId>
+		<RefinementResults null="true" />
+		<RelevantResults type="Microsoft.Office.Server.Search.REST.RelevantResults">
+			<GroupTemplateId null="true" />
+			<ItemTemplateId null="true" />
+			<Properties>
+				<element type="SP.KeyValue">
+					<Key>GenerationId</Key>
+					<Value>92233775806</Value>
+					<ValueType>Edm.Int64</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>ExecutionTimeMs</Key>
+					<Value>0</Value>
+					<ValueType>Edm.Int32</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>QueryModification</Key>
+					<Value>sharepoint</Value>
+					<ValueType>Edm.String</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>RenderTemplateId</Key>
+					<Value>~Display Templates/Search/Default.js</Value>
+					<ValueType>Edm.String</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>StartRecord</Key>
+					<Value>0</Value>
+					<ValueType>Edm.Int32</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsLastBlockInSubstrate</Key>
+					<Value>true</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsFirstBlockInSubstrate</Key>
+					<Value>false</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsFirstPinnedResultBlock</Key>
+					<Value>false</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsLastPinnedResultBlock</Key>
+					<Value>false</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsFirstRankedResultBlock</Key>
+					<Value>true</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+				<element type="SP.KeyValue">
+					<Key>IsLastRankedResultBlock</Key>
+					<Value>true</Value>
+					<ValueType>Edm.Boolean</ValueType>
+				</element>
+			</Properties>
+			<ResultTitle null="true" />
+			<ResultTitleUrl null="true" />
+			<RowCount type="Edm.Int32">10</RowCount>
+			<Table type="SP.SimpleDataTable">
+				<Rows>
+					<element type="SP.SimpleDataRow">
+						<Cells>
+							<element type="SP.KeyValue">
+								<Key>Rank</Key>
+								<Value>0</Value>
+								<ValueType>Edm.Double</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>DocId</Key>
+								<Value>1114610</Value>
+								<ValueType>Edm.Int64</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>CustomID</Key>
+								<Value>13400</Value>
+								<ValueType>Edm.Decimal</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>Title</Key>
+								<Value>19835</Value>
+								<ValueType>Edm.String</ValueType>
+							</element>
+						</Cells>
+					</element>
+					<element type="SP.SimpleDataRow">
+						<Cells>
+							<element type="SP.KeyValue">
+								<Key>Rank</Key>
+								<Value>0</Value>
+								<ValueType>Edm.Double</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>DocId</Key>
+								<Value>1114614</Value>
+								<ValueType>Edm.Int64</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>CustomID</Key>
+								<Value>13301</Value>
+								<ValueType>Edm.Decimal</ValueType>
+							</element>
+							<element type="SP.KeyValue">
+								<Key>Title</Key>
+								<Value>19835</Value>
+								<ValueType>Edm.String</ValueType>
+							</element>
+
+						</Cells>
+					</element>
+				</Rows>
+			</Table>
+			<TotalRows type="Edm.Int32">824</TotalRows>
+			<TotalRowsIncludingDuplicates type="Edm.Int32">824</TotalRowsIncludingDuplicates>
+		</RelevantResults>
+		<SpecialTermResults null="true" />
+	</PrimaryQueryResult>
+	<Properties>
+		<element type="SP.KeyValue">
+			<Key>RowLimit</Key>
+			<Value>10</Value>
+			<ValueType>Edm.Int32</ValueType>
+		</element>
+		<element type="SP.KeyValue">
+			<Key>SourceId</Key>
+			<Value>asd234-asf2-234c</Value>
+			<ValueType>Edm.Guid</ValueType>
+		</element>
+		<element type="SP.KeyValue">
+			<Key>EnableInterleaving</Key>
+			<Value>true</Value>
+			<ValueType>Edm.Boolean</ValueType>
+		</element>
+		<element type="SP.KeyValue">
+			<Key>piPageImpression</Key>
+			<Value>392_1033</Value>
+			<ValueType>Edm.String</ValueType>
+		</element>
+		<element type="SP.KeyValue">
+			<Key>SerializedQuery</Key>
+			<Value>&lt;Query Culture="en-US" EnableStemming="True"
+				EnablePhonetic="False" EnableNicknames="False"
+				IgnoreAllNoiseQuery="True" SummaryLength="180"
+				MaxSnippetLength="180" DesiredSnippetLength="90"
+				KeywordInclusion="0" QueryText="sharepoint" QueryTemplate=""
+				TrimDuplicates="True" Site="jhg8-dae14"
+				Web="ded145f5-3aad-4163-a036-f54ab62ca2bb" KeywordType="True"
+				HiddenConstraints="" /&gt;</Value>
+			<ValueType>Edm.String</ValueType>
+		</element>
+	</Properties>
+	<SecondaryQueryResults
+		type="Collection(Microsoft.Office.Server.Search.REST.QueryResult)" />
+	<SpellingSuggestion />
+	<TriggeredRules type="Collection(Edm.Guid)" />
+</query>

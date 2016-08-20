@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:query xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+	xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+	xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml"
+	m:type="Microsoft.Office.Server.Search.REST.SearchResult">
+	<d:ElapsedTime m:type="Edm.Int32">211</d:ElapsedTime>
+	<d:PrimaryQueryResult m:type="Microsoft.Office.Server.Search.REST.QueryResult">
+		<d:CustomResults
+			m:type="Collection(Microsoft.Office.Server.Search.REST.CustomResult)" />
+		<d:QueryId>cce0e9d5-a3bd-4da2-bfe8-95018783da43</d:QueryId>
+		<d:QueryRuleId m:type="Edm.Guid">00000000-0000-0000-0000-000000000000
+		</d:QueryRuleId>
+		<d:RefinementResults m:null="true" />
+		<d:RelevantResults
+			m:type="Microsoft.Office.Server.Search.REST.RelevantResults">
+			<d:GroupTemplateId m:null="true" />
+			<d:ItemTemplateId m:null="true" />
+			<d:Properties m:type="Collection(SP.KeyValue)">
+				<d:element>
+					<d:Key>GenerationId</d:Key>
+					<d:Value>9223372036854775806</d:Value>
+					<d:ValueType>Edm.Int64</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>indexSystem</d:Key>
+					<d:Value></d:Value>
+					<d:ValueType>Edm.String</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>ExecutionTimeMs</d:Key>
+					<d:Value>78</d:Value>
+					<d:ValueType>Edm.Int32</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>QueryModification</d:Key>
+					<d:Value>nalco -ContentClass=urn:content-class:SPSPeople</d:Value>
+					<d:ValueType>Edm.String</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>RenderTemplateId</d:Key>
+					<d:Value>~sitecollection/_catalogs/masterpage/Display
+						Templates/Search/Group_Default.js
+					</d:Value>
+					<d:ValueType>Edm.String</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>piPageImpressionBlockType</d:Key>
+					<d:Value>2</d:Value>
+					<d:ValueType>Edm.Byte</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>StartRecord</d:Key>
+					<d:Value>0</d:Value>
+					<d:ValueType>Edm.Int32</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsLastBlockInSubstrate</d:Key>
+					<d:Value>true</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsFirstBlockInSubstrate</d:Key>
+					<d:Value>false</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsFirstPinnedResultBlock</d:Key>
+					<d:Value>false</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsLastPinnedResultBlock</d:Key>
+					<d:Value>false</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsFirstRankedResultBlock</d:Key>
+					<d:Value>true</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+				<d:element>
+					<d:Key>IsLastRankedResultBlock</d:Key>
+					<d:Value>true</d:Value>
+					<d:ValueType>Edm.Boolean</d:ValueType>
+				</d:element>
+			</d:Properties>
+			<d:ResultTitle m:null="true" />
+			<d:ResultTitleUrl m:null="true" />
+			<d:RowCount m:type="Edm.Int32">4</d:RowCount>
+			<d:Table m:type="SP.SimpleDataTable">
+				<d:Rows>
+					<d:element m:type="SP.SimpleDataRow">
+						<d:Cells>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Rank</d:Key>
+								<d:Value>26.9997367858887</d:Value>
+								<d:ValueType>Edm.Double</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>DocId</d:Key>
+								<d:Value>173565197</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WorkId</d:Key>
+								<d:Value>173565197</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Title</d:Key>
+								<d:Value>Nalco Champion Team Site</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Author</d:Key>
+								<d:Value>System Account</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Size</d:Key>
+								<d:Value>114042</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Path</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Description</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Write</d:Key>
+								<d:Value>2015-01-27T16:15:59.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LastModifiedTime</d:Key>
+								<d:Value>2015-01-27T16:15:59.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>CollapsingStatus</d:Key>
+								<d:Value>1</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedSummary</d:Key>
+								<d:Value xml:space="preserve">Title &#xD;
+  &#xD;
+Background Image Location &#xD;
+  &#xD;
+Description&#xD;
+Link Location &#xD;
+  &#xD;
+Launch Behavior &#xD;
+  &#xD;
+Order &#xD;
+  &#xD;
+Background Image Cluster Horizontal Start &#xD;
+  &#xD;
+Background Image &lt;ddd/&gt; </d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedProperties</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>contentclass</d:Key>
+								<d:Value>STS_Site</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PictureThumbnailURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedEmbedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedPreviewURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileExtension</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ContentTypeId</d:Key>
+								<d:Value>0x0101080005D4E96C1732594EA2177C63A05EE585</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ParentLink</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsLifeTime</d:Key>
+								<d:Value>7</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsRecent</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionNames</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionIndexes</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteLogo</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteDescription</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>deeplinks</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>importance</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteName</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsDocument</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileType</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsContainer</d:Key>
+								<d:Value>true</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WebTemplate</d:Key>
+								<d:Value>STS</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SecondaryFileExtension</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>docaclmeta</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SPWebUrl</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UniqueId</d:Key>
+								<d:Value>{D31290F8-3BCC-449F-9708-92BC04CCE8B3}</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ProgId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LinkingUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>OriginalPath</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeIdList</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>RenderTemplateId</d:Key>
+								<d:Value>~sitecollection/_catalogs/masterpage/Display
+									Templates/Search/Item_Default.js
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PartitionId</d:Key>
+								<d:Value>8524039f-8e59-428c-a473-b96da47d371f</d:Value>
+								<d:ValueType>Edm.Guid</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UrlZone</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int32</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Culture</d:Key>
+								<d:Value>en-US</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>piSearchResultId</d:Key>
+								<d:Value>0_1</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+						</d:Cells>
+					</d:element>
+					<d:element m:type="SP.SimpleDataRow">
+						<d:Cells>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Rank</d:Key>
+								<d:Value>26.8812026977539</d:Value>
+								<d:ValueType>Edm.Double</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>DocId</d:Key>
+								<d:Value>173565650</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WorkId</d:Key>
+								<d:Value>173565650</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Title</d:Key>
+								<d:Value>Nalco Champion Team Site - MicroFeed</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Author</d:Key>
+								<d:Value>System Account</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Size</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Path</d:Key>
+								<d:Value>https://deevi.sharepoint.com/Lists/PublishedFeed/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Description</d:Key>
+								<d:Value>MySite MicroFeed Persistent Storage List</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Write</d:Key>
+								<d:Value>2015-01-20T18:44:47.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LastModifiedTime</d:Key>
+								<d:Value>2015-01-20T18:44:47.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>CollapsingStatus</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedSummary</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedProperties</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>contentclass</d:Key>
+								<d:Value>STS_List_544</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PictureThumbnailURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedEmbedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedPreviewURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileExtension</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ContentTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ParentLink</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsLifeTime</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsRecent</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionNames</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionIndexes</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteLogo</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteDescription</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>deeplinks</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>importance</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteName</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsDocument</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileType</d:Key>
+								<d:Value>html</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsContainer</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WebTemplate</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SecondaryFileExtension</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>docaclmeta</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SPWebUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UniqueId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ProgId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LinkingUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>OriginalPath</d:Key>
+								<d:Value>https://deevi.sharepoint.com/Lists/PublishedFeed/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeIdList</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>RenderTemplateId</d:Key>
+								<d:Value>~sitecollection/_catalogs/masterpage/Display
+									Templates/Search/Item_Default.js
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PartitionId</d:Key>
+								<d:Value>8524039f-8e59-428c-a473-b96da47d371f</d:Value>
+								<d:ValueType>Edm.Guid</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UrlZone</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int32</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Culture</d:Key>
+								<d:Value>en-US</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>piSearchResultId</d:Key>
+								<d:Value>1_1</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+						</d:Cells>
+					</d:element>
+					<d:element m:type="SP.SimpleDataRow">
+						<d:Cells>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Rank</d:Key>
+								<d:Value>26.8247184753418</d:Value>
+								<d:ValueType>Edm.Double</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>DocId</d:Key>
+								<d:Value>173565601</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WorkId</d:Key>
+								<d:Value>173565601</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Title</d:Key>
+								<d:Value>Nalco Champion Team Site - Site Assets</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Author</d:Key>
+								<d:Value>System Account</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Size</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Path</d:Key>
+								<d:Value>https://deevi.sharepoint.com/SiteAssets/Forms/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Description</d:Key>
+								<d:Value>Use this library to store files which are included on
+									pages within this site, such as images on Wiki pages.
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Write</d:Key>
+								<d:Value>2015-12-12T13:24:21.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LastModifiedTime</d:Key>
+								<d:Value>2015-12-12T13:24:21.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>CollapsingStatus</d:Key>
+								<d:Value>1</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedSummary</d:Key>
+								<d:Value>Team Site Notebook&#xD;
+									  &#xD;
+									12/11/2014 12:16 PM
+									System Account
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedProperties</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>contentclass</d:Key>
+								<d:Value>STS_List_DocumentLibrary</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PictureThumbnailURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedEmbedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedPreviewURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileExtension</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ContentTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ParentLink</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsLifeTime</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsRecent</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionNames</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionIndexes</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteLogo</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteDescription</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>deeplinks</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>importance</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteName</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsDocument</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileType</d:Key>
+								<d:Value>html</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsContainer</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WebTemplate</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SecondaryFileExtension</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>docaclmeta</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SPWebUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UniqueId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ProgId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LinkingUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>OriginalPath</d:Key>
+								<d:Value>https://deevi.sharepoint.com/SiteAssets/Forms/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeIdList</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>RenderTemplateId</d:Key>
+								<d:Value>~sitecollection/_catalogs/masterpage/Display
+									Templates/Search/Item_Default.js
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PartitionId</d:Key>
+								<d:Value>8524039f-8e59-428c-a473-b96da47d371f</d:Value>
+								<d:ValueType>Edm.Guid</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UrlZone</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int32</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Culture</d:Key>
+								<d:Value>en-US</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>piSearchResultId</d:Key>
+								<d:Value>2_1</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+						</d:Cells>
+					</d:element>
+					<d:element m:type="SP.SimpleDataRow">
+						<d:Cells>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Rank</d:Key>
+								<d:Value>26.5520057678223</d:Value>
+								<d:ValueType>Edm.Double</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>DocId</d:Key>
+								<d:Value>173565686</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WorkId</d:Key>
+								<d:Value>173565686</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Title</d:Key>
+								<d:Value>Nalco Champion Team Site - Apps in Testing</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Author</d:Key>
+								<d:Value>System Account</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Size</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Path</d:Key>
+								<d:Value>https://deevi.sharepoint.com/Lists/DraftApps/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Description</d:Key>
+								<d:Value>List of all apps deployed in the Dev Site</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Write</d:Key>
+								<d:Value>2015-01-27T16:15:56.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LastModifiedTime</d:Key>
+								<d:Value>2015-01-27T16:15:56.0000000Z</d:Value>
+								<d:ValueType>Edm.DateTime</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>CollapsingStatus</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedSummary</d:Key>
+								<d:Value>There are no items to show in this view of the
+									&amp;quot;Apps in Testing&amp;quot; list</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>HitHighlightedProperties</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>contentclass</d:Key>
+								<d:Value>STS_List_DeveloperSiteDraftApps</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PictureThumbnailURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedEmbedURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ServerRedirectedPreviewURL</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileExtension</d:Key>
+								<d:Value>aspx</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ContentTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ParentLink</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsLifeTime</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ViewsRecent</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionNames</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SectionIndexes</d:Key>
+								<d:Value></d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteLogo</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteDescription</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>deeplinks</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>importance</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int64</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SiteName</d:Key>
+								<d:Value>https://deevi.sharepoint.com</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsDocument</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>FileType</d:Key>
+								<d:Value>html</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>IsContainer</d:Key>
+								<d:Value>false</d:Value>
+								<d:ValueType>Edm.Boolean</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>WebTemplate</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SecondaryFileExtension</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>docaclmeta</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>SPWebUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UniqueId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ProgId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>LinkingUrl</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>OriginalPath</d:Key>
+								<d:Value>https://deevi.sharepoint.com/Lists/DraftApps/AllItems.aspx
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeIdList</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>ResultTypeId</d:Key>
+								<d:Value m:null="true" />
+								<d:ValueType>Null</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>RenderTemplateId</d:Key>
+								<d:Value>~sitecollection/_catalogs/masterpage/Display
+									Templates/Search/Item_Default.js
+								</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>PartitionId</d:Key>
+								<d:Value>8524039f-8e59-428c-a473-b96da47d371f</d:Value>
+								<d:ValueType>Edm.Guid</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>UrlZone</d:Key>
+								<d:Value>0</d:Value>
+								<d:ValueType>Edm.Int32</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>Culture</d:Key>
+								<d:Value>en-US</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+							<d:element m:type="SP.KeyValue">
+								<d:Key>piSearchResultId</d:Key>
+								<d:Value>3_1</d:Value>
+								<d:ValueType>Edm.String</d:ValueType>
+							</d:element>
+						</d:Cells>
+					</d:element>
+				</d:Rows>
+			</d:Table>
+			<d:TotalRows m:type="Edm.Int32">4</d:TotalRows>
+			<d:TotalRowsIncludingDuplicates
+				m:type="Edm.Int32">10</d:TotalRowsIncludingDuplicates>
+		</d:RelevantResults>
+		<d:SpecialTermResults m:null="true" />
+	</d:PrimaryQueryResult>
+	<d:Properties m:type="Collection(SP.KeyValue)">
+		<d:element>
+			<d:Key>RowLimit</d:Key>
+			<d:Value>10</d:Value>
+			<d:ValueType>Edm.Int32</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>SourceId</d:Key>
+			<d:Value>8413cd39-2156-4e00-b54d-11efd9abdb89</d:Value>
+			<d:ValueType>Edm.Guid</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>CorrelationId</d:Key>
+			<d:Value>22699b9d-50a1-2000-13ad-87b3fc83f427</d:Value>
+			<d:ValueType>Edm.Guid</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>WasGroupRestricted</d:Key>
+			<d:Value>false</d:Value>
+			<d:ValueType>Edm.Boolean</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>IsPartial</d:Key>
+			<d:Value>false</d:Value>
+			<d:ValueType>Edm.Boolean</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>HasParseException</d:Key>
+			<d:Value>false</d:Value>
+			<d:ValueType>Edm.Boolean</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>EnableInterleaving</d:Key>
+			<d:Value>true</d:Value>
+			<d:ValueType>Edm.Boolean</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>piPageImpression</d:Key>
+			<d:Value>237383507_2791_1033</d:Value>
+			<d:ValueType>Edm.String</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>IsMissingUnifiedGroups</d:Key>
+			<d:Value>false</d:Value>
+			<d:ValueType>Edm.Boolean</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>Constellation</d:Key>
+			<d:Value>9E72C8</d:Value>
+			<d:ValueType>Edm.String</d:ValueType>
+		</d:element>
+		<d:element>
+			<d:Key>SerializedQuery</d:Key>
+			<d:Value>&lt;Query Culture="en-US" EnableStemming="True"
+				EnablePhonetic="False" EnableNicknames="False"
+				IgnoreAllNoiseQuery="True" SummaryLength="180"
+				MaxSnippetLength="180" DesiredSnippetLength="90"
+				KeywordInclusion="0" QueryText="nalco" QueryTemplate=""
+				TrimDuplicates="True" Site="afc42d1a-01e9-4418-8470-d7178d331b7a"
+				Web="18d68886-d1f1-45f2-896d-54dbcd4707eb" KeywordType="True"
+				HiddenConstraints="" /&gt;</d:Value>
+			<d:ValueType>Edm.String</d:ValueType>
+		</d:element>
+	</d:Properties>
+	<d:SecondaryQueryResults
+		m:type="Collection(Microsoft.Office.Server.Search.REST.QueryResult)" />
+	<d:SpellingSuggestion></d:SpellingSuggestion>
+	<d:TriggeredRules m:type="Collection(Edm.Guid)" />
+</d:query>
